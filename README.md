@@ -37,9 +37,3 @@ The project follows a four-week schedule:
   * Assemble project findings, practical maintenance observations, and visual summaries into a slide deck.
   * *Deliverable:* Final report and presentation deck.
 
-## Roles and Responsibilities
-* **Data Preparation (Mohamed Refat):** Fixes invalid timestamps, normalizes factor data, and sets up data model relationships.
-* **Business Analysis (Talha Wessam):** Identifies patterns in stoppage data, such as runs with excessive delays, and frames questions for reporting.
-* **Calculations and Metrics (Omar Ahmed):** Writes DAX measures for cycle variance, failure frequencies, and downtime duration totals.
-* **Interface and Visuals (Marwa Ahmed and Mariam Mohamed):** Structures report pages, selects charts, and ensures clear navigation and filtering.
-* **Presentation and Reporting (Hager Osama):** Prepares the final slide deck and organizes project documentation for review.
