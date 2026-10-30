@@ -20,7 +20,7 @@ This project investigates production delays in a bottling facility where batches
 ## Instructor
 * Eng. Amir Shehata (DEPI Data Analysis Track)
 
-
+## Work Plan
 The project follows a four-week schedule:
 * **Week 1: Data Cleaning and Preprocessing**
   * Clean raw batch logs and compute actual run durations, including runs that cross midnight.
