@@ -1,4 +1,4 @@
-## Beverage Bottling Line Downtime Analysis
+## Beverage Line Downtime Analysis
 
 **Program:** Digital Egypt Pioneers Initiative (DEPI), MCIT  
 **Track:** Junior Data Analysis  
