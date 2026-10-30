@@ -2,6 +2,7 @@
 
 **Program:** Digital Egypt Pioneers Initiative (DEPI), MCIT  
 **Track:** Junior Data Analysis  
+**Instructor:** Amir Shehata
 
 ##  Project Overview
 This project investigates production delays in a bottling facility where batches frequently exceed target runtimes. Baseline cycle times are 60 minutes for 600 ml bottles and 98 minutes for 2-liter bottles. Using a Power BI dashboard, the analysis tracks 12 downtime categories to isolate mechanical failures from operator errors and guide daily batch scheduling.
@@ -16,9 +17,6 @@ This project investigates production delays in a bottling facility where batches
 | **Mariam Mohamed Abdel Rasheed Abdel Hameed** | Dashboard Design |
 | **Hager Osama Marzouk** | Documentation & Presentation |
 
-
-## Instructor
-* Eng. Amir Shehata (DEPI Data Analysis Track)
 
 ## Work Plan
 The project follows a four-week schedule:
