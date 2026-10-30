@@ -14,7 +14,7 @@ This project investigates production delays in a bottling facility where batches
 | **Mohamed Refat Mohamed Elamary** | Data Cleaning & Modeling |
 | **Omar Ahmed Mostafa Fakhry** | DAX Calculations |
 | **Marwa Ahmed Abdelaziz Mohamed** | Dashboard Design |
-| **Mariam Mohamed Abdel Rasheed Abdel Hameed** | Dashboard Design |
+| **Mariam Mohamed Abdul Rashid Abdul Hamid** | Dashboard Design |
 | **Hager Osama Marzouk** | Documentation & Presentation |
 
 
