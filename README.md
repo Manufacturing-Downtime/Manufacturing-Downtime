@@ -10,11 +10,11 @@ This project investigates production delays in a bottling facility where batches
 | Name | Project Role |
 | :--- | :--- |
 | **Talha Wessam Mahmoud** | Business Analysis Lead |
-| **Mohamed Refat Mohamed Elamary** | Data Cleaning and Modeling Lead |
-| **Omar Ahmed Mostafa Fakhry** | DAX Calculations Lead |
-| **Marwa Ahmed Abdelaziz Mohamed** | Dashboard Designer |
-| **Mariam Mohamed Abdel Rasheed Abdel Hameed** | Dashboard Designer |
-| **Hager Osama Marzouk** | Documentation and Presentation Lead |
+| **Mohamed Refat Mohamed Elamary** | Data Cleaning & Modeling Lead |
+| **Omar Ahmed Mostafa Fakhry** | DAX Calculations |
+| **Marwa Ahmed Abdelaziz Mohamed** | Dashboard Design |
+| **Mariam Mohamed Abdel Rasheed Abdel Hameed** | Dashboard Design |
+| **Hager Osama Marzouk** | Documentation & Presentation |
 
 
 ## Instructor
