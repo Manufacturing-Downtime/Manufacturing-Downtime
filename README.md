@@ -1,6 +1,6 @@
 ## Beverage Line Downtime Analysis
 
-**Program:** Digital Egypt Pioneers Initiative (DEPI), MCIT  
+**Program:** Digital Egypt Pioneers Initiative (DEPI), MCIT 
 **Track:** Junior Data Analysis  
 **Instructor:** Amir Ahmed Shehata
 
