@@ -46,8 +46,10 @@ The project follows a four-week schedule:
 * **Next-Day Batch Capacity:** Expected downtime and completed batches for planned shift hours, plus extra batches gained if downtime drops.
 
 ## Project Files
-* **Power BI Dashboard:** [Manufacturing Downtime.pbix](https://drive.google.com/file/d/1GXvakc7QJ07fZXKJPmV3_M2YBDx_J73e/view?usp=sharing)
-* **Cleaning & Modeling Documentation:** [Cleaning & Modeling Doc.pdf](https://drive.google.com/file/d/1hWw6j58ALkrbdq8r21LBNeE6EHhhZyW2/view?usp=sharing)
-* **Analysis Questions (Q1-Q10):** [Manufacturing Downtime Analysis Questions.pdf](https://drive.google.com/file/d/1AhNVVFIZDFbtkBJPBGQ-dhVn5wrqayMX/view?usp=drive_link)
-* **Original Dataset:** [Manufacturing Line Productivity.xlsx](https://docs.google.com/spreadsheets/d/1vMn7fnoOOgRVKfxzh4CdjM9OyK8ucQRr/edit?usp=sharing&ouid=108723738870898957321&rtpof=true&sd=true)
-* **Final Presentation:** Pending
+| Resource | Details |
+| :--- | :--- |
+| [Power BI Dashboard](https://drive.google.com/file/d/1GXvakc7QJ07fZXKJPmV3_M2YBDx_J73e/view?usp=sharing) | 4-page interactive report (`.pbix`) |
+| [Cleaning & Modeling Documentation](https://drive.google.com/file/d/1hWw6j58ALkrbdq8r21LBNeE6EHhhZyW2/view?usp=sharing) | Power Query steps and star schema (`.pdf`) |
+| [Business Analysis Questions](https://drive.google.com/file/d/1AhNVVFIZDFbtkBJPBGQ-dhVn5wrqayMX/view?usp=drive_link) | Q1-Q10 operational questions (`.pdf`) |
+| [Original Dataset](https://docs.google.com/spreadsheets/d/1vMn7fnoOOgRVKfxzh4CdjM9OyK8ucQRr/edit?usp=sharing&ouid=108723738870898957321&rtpof=true&sd=true) | Raw production and downtime logs (`.xlsx`) |
+| Final Presentation | Pending Week 4 upload |
