@@ -48,8 +48,8 @@ The project follows a four-week schedule:
 ## Project Files
 | Resource | Details |
 | :--- | :--- |
-| [Power BI Dashboard](https://drive.google.com/file/d/1GXvakc7QJ07fZXKJPmV3_M2YBDx_J73e/view?usp=sharing) | 4-page interactive report (`.pbix`) |
-| [Cleaning & Modeling Documentation](https://drive.google.com/file/d/1hWw6j58ALkrbdq8r21LBNeE6EHhhZyW2/view?usp=sharing) | Power Query & data modeling steps  (`.pdf`) |
+| [Original Dataset](https://docs.google.com/spreadsheets/d/1vMn7fnoOOgRVKfxzh4CdjM9OyK8ucQRr/edit?usp=sharing&ouid=108723738870898957321&rtpof=true&sd=true) | production & downtime logs (`.xlsx`) |
+| [Cleaning & Modeling Documentation](https://drive.google.com/file/d/1hWw6j58ALkrbdq8r21LBNeE6EHhhZyW2/view?usp=sharing) | Power Query steps and data modeling (`.pdf`) |
 | [Business Analysis Questions](https://drive.google.com/file/d/1AhNVVFIZDFbtkBJPBGQ-dhVn5wrqayMX/view?usp=drive_link) | 10 analytical questions (`.pdf`) |
-| [Original Dataset](https://docs.google.com/spreadsheets/d/1vMn7fnoOOgRVKfxzh4CdjM9OyK8ucQRr/edit?usp=sharing&ouid=108723738870898957321&rtpof=true&sd=true) | Raw downtime logs (`.xlsx`) |
+| [Power BI Dashboard](https://drive.google.com/file/d/1GXvakc7QJ07fZXKJPmV3_M2YBDx_J73e/view?usp=sharing) | 4-page interactive report (`.pbix`) |
 | Final Presentation | Pending |
