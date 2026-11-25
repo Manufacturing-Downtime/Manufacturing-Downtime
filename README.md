@@ -51,4 +51,4 @@ The project follows a four-week schedule:
 | [Cleaning & Modeling Documentation](https://drive.google.com/file/d/1hWw6j58ALkrbdq8r21LBNeE6EHhhZyW2/view?usp=sharing) | Power Query steps and data modeling (`.pdf`) |
 | [Business Analysis Questions](https://drive.google.com/file/d/1AhNVVFIZDFbtkBJPBGQ-dhVn5wrqayMX/view?usp=drive_link) | 10 analytical questions (`.pdf`) |
 | [Power BI Dashboard](https://drive.google.com/file/d/1GXvakc7QJ07fZXKJPmV3_M2YBDx_J73e/view?usp=sharing) | 4-page interactive report (`.pbix`) |
-| Final Presentation | Pending |
+| Final Presentation | _Pending_ |
