@@ -42,7 +42,6 @@ The project follows a four-week schedule:
 * **Operator vs. Non-Operator Split:** Share of downtime caused by operator error versus equipment, supply, and other stops.
 * **Stop Frequency & Average Duration:** How often each downtime factor occurs and how long each stop lasts.
 * **Operator Error Rate:** Operator-caused downtime per productive hour to compare operators across different workloads.
-* **Product Downtime Rate:** Downtime share and average delay per batch across products and bottle sizes (600 ml vs. 2-liter).
 * **Next-Day Batch Capacity:** Expected downtime and completed batches for planned shift hours, plus extra batches gained if downtime drops.
 
 ## Project Files
